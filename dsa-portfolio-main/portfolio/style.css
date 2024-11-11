@@ -1,0 +1,66 @@
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #F5F5DC; /* Light beige background */
+  color: #3E3E3E; /* Dark brown text color */
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  text-align: center;
+  padding: 20px;
+  background-color: #2E4A3D; /* Deep green background for header */
+  color: #F5F5DC; /* Light beige text color for header */
+}
+
+header img {
+  width: 150px;
+  border-radius: 50%;
+  border: 2px solid #F5F5DC; /* Light beige border around image */
+}
+
+section {
+  margin: 20px;
+  padding: 15px;
+  background-color: #FFF8E7; /* Very light beige for sections */
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(46, 74, 61, 0.3); /* Soft shadow with deep green tint */
+}
+
+section img {
+  width: 500px;
+  height: 200px;
+  border-radius: 20px;
+  border: 2px solid #3B945E; /* Forest green border around images */
+}
+
+h2 {
+  color: #3B945E; /* Forest green for headings */
+}
+
+footer {
+  text-align: center;
+  margin-top: 20px;
+  padding: 10px;
+  background-color: #2E4A3D; /* Deep green footer background */
+  color: #F5F5DC; /* Light beige text for footer */
+}
+
+header span {
+  color: #B0A48F; /* Muted beige for additional text in header */
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+section span {
+  color: #3B945E; /* Forest green for highlighted text in sections */
+  font-family: 'Times New Roman', Times, serif, Helvetica, sans-serif;
+}
+
+a {
+  color: #3B945E; /* Forest green for links */
+  text-decoration: none;
+}
+
+a:hover {
+  color: #2E4A3D; /* Deep green on hover for links */
+}
